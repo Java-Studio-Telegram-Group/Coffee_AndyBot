@@ -9,3 +9,5 @@
 
 ### Requisitos para colaborar:
 Tener NetBeans instalado, y tener Java 8
+### API Wrapper usada
+[TelegramBots](https://github.com/rubenlagus/TelegramBots) de [rubenlagus](https://github.com/rubenlagus)
